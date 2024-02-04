@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1706206953 source:c:\c++ projects\music player\music\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+
+1706422803 source:c:\c++ projects\music project\music player\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<iomanip>
+	<mmsystem.h>
+
+1706422803 source:c:\c++ main projects (gtihub)\music player\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<iomanip>
+	<mmsystem.h>
+
