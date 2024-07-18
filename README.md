@@ -67,3 +67,40 @@ Echo the Extraordinary (tagline)
 Enter username: user123
 Enter password: ********
 (If wrong username or password is entered, it redirects to the same page with a prompt to enter correct details.)
+Main Menu:
+
+plaintext
+Copy code
+---Drop Beats, Not Bombs - WELCOME, HOMIE!---
+Would you prefer to play the song using your own URL link or select a single song?
+For URL link, press 1. For song selection, press 2.
+Select your choice: 2
+Song Selection (if '2' is selected):
+
+plaintext
+Copy code
+---Drop Beats, Not Bombs - WELCOME, HOMIE!---
+Would you prefer to play the song using your own URL link or select a single song?
+For URL link, press 1. For song selection, press 2.
+Select your choice: 2
+For Hindi songs, press 1. For English songs, press 2.
+Your choice: 1
+(List of Hindi songs is displayed)
+Select your choice: 5 (Agar Tum Saath Ho)
+Playback and Re-run:
+
+plaintext
+Copy code
+---THANKS FOR CHOOSING OUR SOUND JOURNEY!---
+Ready for another go? Press 'y' or 'Y' to dive back in, or any key to journey elsewhere: y
+For Hindi songs, press 1. For English songs, press 2.
+Your choice: 2
+(List of English songs is displayed)
+Select your choice: 10 (Everybody Kanye West)
+Conclusion
+This Music Player application offers an engaging and straightforward way for users to enjoy their favorite music. By providing options for both URL-based playback and a curated list of songs, the application caters to diverse user preferences. It serves as a practical tool and an educational example of basic user interaction and music playback techniques. Users can effortlessly navigate through the application to enjoy a seamless music experience.
+
+[YouTube Video Link]
+
+This format provides a comprehensive overview of your Music Player Project, reflecting its functionality and user-friendly design. The [YouTube Video Link] placeholder can be updated with the actual link to your project's video.
+
