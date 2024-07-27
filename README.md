@@ -95,5 +95,7 @@ Select your choice: 10 (Everybody Kanye West)
 # Conclusion
 **This Music Player application offers an engaging and straightforward way for users to enjoy their favorite music. By providing options for both URL-based playback and a curated list of songs, the application caters to diverse user preferences. It serves as a practical tool and an educational example of basic user interaction and music playback techniques. Users can effortlessly navigate through the application to enjoy a seamless music experience.**
 
-### YouTube video link for the music player app.
-   [ https://youtu.be/IgPtoLry6fI?si=DJwBIuoKiQQoVqno ]
+### YouTube video link for the Music Player app.
+   [https://youtu.be/IgPtoLry6fI?si=DJwBIuoKiQQoVqno]
+
+**This video offers a concise and clear overview of your Music Player project, reflecting the simplicity and functionality of the application.
