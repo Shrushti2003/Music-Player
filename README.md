@@ -98,4 +98,4 @@ Select your choice: 10 (Everybody Kanye West)
 ### YouTube video link for the Music Player app.
    [https://youtu.be/IgPtoLry6fI?si=DJwBIuoKiQQoVqno]
 
-**This video offers a concise and clear overview of your Music Player project, reflecting the simplicity and functionality of the application.
+This video offers a concise and clear overview of your Music Player project, reflecting the simplicity and functionality of the application.
